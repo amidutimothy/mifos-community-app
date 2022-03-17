@@ -1,0 +1,7 @@
+{
+    "/fineract-provider": {
+        "target": "https://50.116.55.70:8443",
+        "secure": false,
+        "changeOrigin": true
+    }
+}
